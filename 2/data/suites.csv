@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 17 17:59:50 GMT 2025","Mon Feb 17 17:59:50 GMT 2025","1","tests","test_main","","","","test_main","Test main function."
